@@ -66,5 +66,5 @@
 ### 🐍 A minha Contribution Snake
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/franciscox05/franciscox05/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/franciscox05/franciscox05/output/github-contribution-grid-snake-dark.svg">
 </p>
