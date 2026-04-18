@@ -1,16 +1,65 @@
-## Hi there 👋
+# Olá! 👋 Sou o Francisco Gomes
+**Estudante de Engenharia Informática | Full-Stack Developer | Software Engineer**
 
-<!--
-**franciscox05/franciscox05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local-Portugal-blue?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projeto em Destaque: Pedeja-Project
+*Desenvolvimento de uma solução de logística e entrega de comida em larga escala.*
+
+- **Arquitetura:** Focada em escalabilidade e performance para entregas em tempo real.
+- **Estado:** Repositório **Privado** (Propriedade Intelectual).
+- **Stack:** Desenvolvimento focado em robustez e eficiência.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Base de Dados**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,js,c,php,html,sql,mysql,postgres,supabase&theme=dark" />
+  </a>
+</p>
+
+**Frameworks & Desenvolvimento Frontend/Mobile**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,ionic&theme=dark" />
+  </a>
+</p>
+
+**Ferramentas, IDEs & Design**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,idea,vscode,unity,figma&theme=dark" />
+  </a>
+</p>
+
+**Sistemas & Modelação**
+- 🐧 **Linux & Infraestrutura:** Experiência em administração de sistemas, operação direta via Shell/Terminal e gestão de servidores.
+- 📊 **Análise de Processos:** Modelação e desenho de processos com **Bizagi** e **Draw.io**.
+
+---
+
+### 👨‍💻 Sobre o meu percurso
+* 🎓 Licenciatura em **Engenharia Informática** no **IPVC**.
+* 🤝 Focado em **trabalho em equipa** e metodologias ágeis.
+* 🌱 Atualmente a aprofundar conhecimentos em **Arquitetura de Software** e **Sistemas Distribuídos**.
+* 📫 Contacto Profissional: [franciscomlg4@gmail.com](mailto:franciscomlg4@gmail.com)
+
+---
+
+### 📊 Estatísticas de Código
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franciscox05&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscox05&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=100&section=footer" width="100%" />
+</p>
