@@ -9,12 +9,11 @@
 ---
 
 ### 🚀 Projeto em Destaque: Pedeja-Project
-*Desenvolvimento de uma solução de logística e entrega de comida em larga escala.*
+*Plataforma completa de logística e entrega de comida em tempo real com fluxo de checkout e dashboards personalizados.*
 
-- **Arquitetura:** Focada em escalabilidade e performance para entregas em tempo real.
-- **Estado:** Repositório **Privado** (Propriedade Intelectual).
-- **Stack:** Desenvolvimento focado em robustez e eficiência.
-
+- **Arquitetura:** Focada em escalabilidade, operação em tempo real e KPIs empresariais.
+- **Ecossistema:** Dashboards dedicados para Clientes, Admins, Restaurantes e DevOps.
+- **Stack Principal:** React, Vite, Supabase (DB + Edge Functions) e integração com Shipday Drive.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
