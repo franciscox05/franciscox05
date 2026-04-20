@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o Francisco Gomes
+# Olá!  Sou o Francisco Gomes
 **Estudante de Engenharia Informática | Full-Stack Developer | Software Engineer**
 
 <p align="left">
